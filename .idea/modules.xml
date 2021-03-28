@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BackendAutomati/.idea/BackendAutomati.iml" filepath="$PROJECT_DIR$/../BackendAutomati/.idea/BackendAutomati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonBasics.iml" filepath="$PROJECT_DIR$/.idea/PythonBasics.iml" />
+    </modules>
+  </component>
+</project>
